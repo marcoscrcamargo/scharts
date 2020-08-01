@@ -1,0 +1,6 @@
+kaleido==0.0.2
+fastapi==0.60.1
+uvicorn==0.11.8
+pandas==0.24.2
+numpy==1.17.4
+plotly==4.9.0
