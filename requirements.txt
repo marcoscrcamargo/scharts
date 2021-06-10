@@ -1,5 +1,5 @@
 kaleido==0.0.2
-fastapi==0.60.1
+fastapi==0.65.2
 uvicorn==0.11.8
 pandas==0.24.2
 numpy==1.17.4
